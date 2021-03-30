@@ -149,7 +149,7 @@ $$
 
 5. Hellman, O. & Abrikosov, I. A. Temperature-dependent effective third-order interatomic force constants from first principles. Phys. Rev. B  88, 144301 (2013).
 
-6. Sun, T., Zhang, D.-B. & Wentzcovitch, R. M. Dynamic stabilization of cubic \mathrm{Ca}\mathrm{Si}{\mathrm{O}}_{3} perovskite at high temperatures and pressures from ab initio molecular dynamics. Phys. Rev. B  89, 094109 (2014).
+6. Sun, T., Zhang, D.-B. & Wentzcovitch, R. M. Dynamic stabilization of cubic CaSiO$_3$ perovskite at high temperatures and pressures from ab initio molecular dynamics. Phys. Rev. B  89, 094109 (2014).
 
 7. Zhang, D.-B., Sun, T. & Wentzcovitch, R. M. Phonon Quasiparticles and Anharmonic Free Energy in Complex Systems. Physical Review Letters  112, (2014).
 
@@ -157,7 +157,7 @@ $$
 
 9. Tersoff, J. New empirical approach for the structure and energy of covalent systems. Phys. Rev. B  37, 6991–7000 (1988).
 
-10. Kresse, G. & Furthmüller, J. Efficient iterative schemes for \textit{ab initio} total-energy calculations using a plane-wave basis set. Phys. Rev. B  54, 11169–11186 (1996).
+10. Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. Phys. Rev. B  54, 11169–11186 (1996).
 
 11. Plimpton, S. Fast Parallel Algorithms for Short-Range Molecular Dynamics. Journal of Computational Physics  117, 1–19 (1995).
 
