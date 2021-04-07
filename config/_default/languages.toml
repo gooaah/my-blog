@@ -11,10 +11,10 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "Chinese website title..."
+  title = "博客"
   [zh.params]
-    description = "Site description in Chinese..."
+    description = ""
   [[zh.menu.main]]
     name = "主页"
-    url = "#about"
+    url = "/"
     weight = 2

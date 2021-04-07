@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: 博客
-subtitle: ''
+title: ''
+subtitle: '狂胪文献耗中年，亦是今生后起缘。猛忆儿时心力异，一灯红接混茫前。'
 
 design:
   background:
