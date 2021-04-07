@@ -96,7 +96,7 @@ $$
 
 ## 结果与讨论
 
-![](images/vasp.png)
+![](vasp.png)
 图1 (a)(b)200K下的DFT声子谱，(c)(d)1000K下的DFT声子谱。蓝色为简谐声子谱，红色阴影代表相应声子的线宽。
 <!-- {% asset_img vasp.png %} -->
 
